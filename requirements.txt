@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+opencv-python
+mtcnn
+keras-facenet
+scikit-learn
+joblib
+tensorflow
+pytest
